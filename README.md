@@ -4,19 +4,23 @@
 
 ### make components 
 3 pages Home, Table and About
-- [] nav bar component 
-- [] home page welcome component 
-- [] about component 
-- [] table-card component
-- [] table component
+- [ ] nav bar component 
+- [ ] home page welcome component 
+- [ ] about component 
+- [ ] table-card component
+- [ ] table component
 
 ### put components together and route them 
-- [] setting up routing
-- [] setting table
+- [ ] setting up routing
+- [ ] setting table
 
 ### add functiality 
-- [] fetch some steam API data and display on component 
-- [] add filters for the table via steam API data 
+- [ ] fetch some steam API data and display on component 
+- [ ] add filters for the table via steam API data 
+
+## Git Feature Branch Workflow
+
+This project adheres to the *Git Feature Branch Workflow*. All development work is done in dedicated feature branches created from the main branch. Contributors are encouraged to isolate their changes to these feature branches, ensuring the main branch always remains in a deployable state. Upon completion of development and testing in a feature branch, it is merged back into main through a pull request, maintaining the project's integrity and history. This workflow facilitates easier code reviews, testing, and collaboration. Please ensure you follow this process for contributions.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
