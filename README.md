@@ -1,5 +1,23 @@
 # NgPracticeApp
 
+## to-do's 
+
+### make components 
+3 pages Home, Table and About
+- [] nav bar component 
+- [] home page welcome component 
+- [] about component 
+- [] table-card component
+- [] table component
+
+### put components together and route them 
+- [] setting up routing
+- [] setting table
+
+### add functiality 
+- [] fetch some steam API data and display on component 
+- [] add filters for the table via steam API data 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
 ## Development server
