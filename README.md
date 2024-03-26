@@ -22,7 +22,7 @@
 
 This project adheres to the *Git Feature Branch Workflow*. All development work is done in dedicated feature branches created from the main branch. Contributors are encouraged to isolate their changes to these feature branches, ensuring the main branch always remains in a deployable state. Upon completion of development and testing in a feature branch, it is merged back into main through a pull request, maintaining the project's integrity and history.  
 
-Please refer to the following docs for more info (atlassian git feature-branch-workflow)[https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow]
+Please refer to the following docs for more info [atlassian git feature-branch-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
