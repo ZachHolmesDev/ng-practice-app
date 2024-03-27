@@ -6,12 +6,12 @@
 3 pages Home, Table and About
 - [x] nav bar component 
 - [x] home page welcome component 
-- [ ] about component 
+- [x] about component 
 - [ ] table-card component
 - [ ] table component
 
 ### put components together and route them 
-- [ ] setting up routing
+- [x] setting up routing
 - [ ] setting table
 
 ### add functiality 
