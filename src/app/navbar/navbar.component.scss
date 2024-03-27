@@ -1,0 +1,35 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #333; // Feel free to change the colors
+	color: #fff;
+	padding: 0.5rem 1rem;
+	// width: 100%;
+  
+	.navbar-logo {
+	  img {
+		height: 50px; // Adjust the logo size as needed
+	  }
+	}
+  
+	.navbar-links {
+	  list-style: none;
+	  display: flex;
+	  gap: 1rem; // Adjust the gap between links
+  
+	  li {
+		a {
+		  color: #fff;
+		  text-decoration: none;
+		  padding: 0.5rem 1rem;
+		  transition: background-color 0.3s;
+  
+		  &:hover {
+			background-color: #555; // Change as needed
+		  }
+		}
+	  }
+	}
+  }
+  
