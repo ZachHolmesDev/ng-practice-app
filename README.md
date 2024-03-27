@@ -4,7 +4,7 @@
 
 ### make components 
 3 pages Home, Table and About
-- [ ] nav bar component 
+- [x] nav bar component 
 - [ ] home page welcome component 
 - [ ] about component 
 - [ ] table-card component
